@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "./image";
-import image from "./image";
 
 const imagesList = ({ images }) => {
   return (
